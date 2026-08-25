@@ -47,8 +47,8 @@ The goal of this project was to create a lens to emulate the look of the [Nishik
 * **Raise the mirror in your camera so it lays flat up in provided space the and enable shooting with the mirror raised in your camera settings**
 * Slide the Insert into the Bayonet with the line on the back of the insert down
 * Twist the Outer Ring onto the Bayonet to lock everything together
-  
+
+# Final Thoughts
 <img width="730" height="233" alt="image" src="https://github.com/user-attachments/assets/ce5af56d-2ebc-48be-b63c-0db6cb0f135c" />
 
-# Final Thoughts:
 While the mounting and attachment of the parts are unconventional, it was satisfying to undertake the creation of  a lens that was theoretically impossible due to the large A-mount flange distance and the small width of my APS-C sensor (67% of the smallest width I've ever seen this done on). To create the '3D' gifs shown above, I recommend following a tutorial like [this](https://www.youtube.com/watch?v=UhiG_lI-StE). I personally used Gimp for my editing with jpeg photos, and added retro film effects using this [free plugin](https://gmic.eu/download.html). You can easily convert these gifs to mp4 files for use in any editing program or to post online. 
