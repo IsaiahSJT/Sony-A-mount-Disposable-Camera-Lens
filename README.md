@@ -1,4 +1,4 @@
-# Sony-A-mount-Disposible-Camera-Lens
+# Sony-A-mount-Disposable-Camera-Lens
 This repo contains STL files and instructions for creating a simple '[dispo len](https://focus.picfair.com/articles/i-used-a-50-lens-to-turn-my-digital-camera-into-a-disposable-camera-and-was-amazed-by-the-results)' or a tri-lens '[wigglegram](https://en.wikipedia.org/wiki/Wiggle_stereoscopy)' for Sony A-mount. The final assembly consists of six printed parts which can be assembled without screws. ABS filament is preferred. Solidpart files are included for those who wish to modify the design. 
 
 <img width="1800" height="666" alt="image" src="https://github.com/user-attachments/assets/e32e653c-6273-4ee5-b1f0-63584ae2df22" />
